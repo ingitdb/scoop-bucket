@@ -1,0 +1,15 @@
+{
+    "version": "0.17.8",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/ingitdb/ingitdb-cli/releases/download/v0.17.8/ingitdb_0.17.8_windows_amd64.zip",
+            "bin": [
+                "ingitdb.exe"
+            ],
+            "hash": "e0650c179e3bba57eb3587ee5417b8289d481f8f90b392463956252ed7df03ff"
+        }
+    },
+    "homepage": "https://ingitdb.com",
+    "license": "MIT",
+    "description": "A CLI for a schema-validated, AI-native database backed by a Git repository."
+}
