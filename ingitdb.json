@@ -1,12 +1,12 @@
 {
-    "version": "0.65.1",
+    "version": "0.65.5",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/ingitdb/ingitdb-cli/releases/download/v0.65.1/ingitdb_0.65.1_windows_amd64.zip",
+            "url": "https://github.com/ingitdb/ingitdb-cli/releases/download/v0.65.5/ingitdb_0.65.5_windows_amd64.zip",
             "bin": [
                 "ingitdb.exe"
             ],
-            "hash": "a3f1bd6bd774e17027dcf0098fd32b19bbe7c7e41d22bedb6eaa4c9bc8e57d07"
+            "hash": "3e2df5ac105422272e9bbba23ad826c28254ff4dac7e1014fff1d13546a0dc52"
         }
     },
     "homepage": "https://ingitdb.com",
